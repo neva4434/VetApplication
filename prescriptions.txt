@@ -1,0 +1,24 @@
+=== PRESCRIPTION ===
+Date: Mon Jan 05 23:18:38 TRT 2026
+Doctor: Ali
+Patient: Unknown Patient
+Medicine: xanax (General)
+Dosage: 70 - 2
+
+------------------
+=== PRESCRIPTION ===
+Date: Mon Jan 05 23:28:14 TRT 2026
+Doctor: Ali
+Patient: Unknown Patient
+Medicine: ttt (General)
+Dosage: 56 - 3
+
+------------------
+=== PRESCRIPTION ===
+Owner TC: 12345678998
+Doctor: Ali
+Patient: Şanzımant
+Chip: 81c08b61-3f6a-4d29-b31e-b74ce7af5d41
+Medicine: Cortizol (General)
+Dosage: 50 - 1
+------------------
